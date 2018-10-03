@@ -2,4 +2,4 @@
 Auto-Create Deep Learning Dataset 
 
 
-![alt Image](https://github.com/WaiYanNyeinNaing/Auto_Build_DeepLearningDataset/data.png)
+![alt text](https://github.com/WaiYanNyeinNaing/Auto_Build_DeepLearningDataset/data.png)
